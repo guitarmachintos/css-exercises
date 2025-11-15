@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.coolClass,
+.handsomeClass {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.coolClass {
+  background-color: black;
+  color: white;
+}
+
+.handsomeClass {
+  background-color: yellow;
+}
